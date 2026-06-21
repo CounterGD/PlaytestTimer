@@ -2,7 +2,6 @@ cmake_minimum_required(VERSION 3.15)
 project(PlaytestTimer)
 
 # Point to the Geode SDK you downloaded
-set(Geode_DIR "$ENV{HOME}/geode-sdk/cmake")
 find_package(Geode REQUIRED)
 
 # Define your mod

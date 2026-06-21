@@ -1,0 +1,9 @@
+{
+    "id": "countergd.playtest-timer",
+    "version": "1.0.0",
+    "name": "Playtest Timer",
+    "developer": "CounterGD",
+    "description": "Logs practice mode playtest duration (first mod)",
+    "geode": "3.0.0"
+}
+
